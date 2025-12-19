@@ -39,7 +39,7 @@ Grandes telas: acima de 1200px
     #login {
         width: 950px;
     }
-    #login > #imagem {
+    #login > #imagem { 
         float: right;
         width: 50%;
         height: 100%;
